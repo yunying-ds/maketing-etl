@@ -1,0 +1,1 @@
+This ETL and analysis project is based on Kaggle E-commerce marketing datasets.
