@@ -1,9 +1,4 @@
-
-*.csv
-*.xlsx
-*.zip
 data/
-
 
 __pycache__/
 *.DS_Store
